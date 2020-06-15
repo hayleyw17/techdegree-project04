@@ -1,0 +1,24 @@
+// ==========
+// Variables
+// ==========
+
+// Colors
+
+$white: #fff;
+$color-text-primary: #777;
+$color-text-accent: #58e1c1;
+$color-link: #51ddfc;
+$color-image-border: #ccc;
+
+// Breakpoints
+
+$breakpoints: (
+	'sm': 576px,
+	'med': 768px,
+	'lg': 992px,
+);
+
+$max-width: 1400px;
+
+// Fonts
+$font-stack-primary: 'Lato', sans-serif;
